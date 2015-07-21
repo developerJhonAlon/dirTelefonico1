@@ -26,6 +26,7 @@ public class Demo extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		String num;
 		
 	}
 
@@ -34,6 +35,7 @@ public class Demo extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		String mesa;
 	}
 
 }
